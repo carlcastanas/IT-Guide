@@ -31,17 +31,18 @@ Stay updated with the latest tools, frameworks, and technologies relevant to you
 
 ## Here are some IT tools and platforms that can help you improve your skills:
 
-LinkedIn: Build a professional network, showcase your skills and experience, connect with industry professionals, and explore job opportunities.
-GitHub: Collaborate on coding projects, showcase your work, contribute to open-source projects, and learn from others in the developer community.
-CodeWars: Sharpen your coding skills by solving programming challenges, practicing algorithms, and learning from community solutions.
-FreeCodeCamp: Access a comprehensive curriculum with interactive coding challenges, projects, and certifications in web development, data science, and more.
-YouTube: Explore IT-related tutorials, coding guides, and tech channels to learn from experts and gain practical insights.
-Discord: Join IT-focused communities and chat groups to connect with like-minded individuals, discuss technical topics, and get support.
-Stack Overflow: Ask technical questions, get answers, and participate in discussions with a vast community of developers and IT professionals.
-Dev.to: Engage with a community of developers and IT enthusiasts, share your knowledge, and learn from others' experiences.
-Medium: Access a wide range of IT articles and blog posts written by industry experts, covering various topics and technologies.
-HackerRank: Practice coding challenges, solve problems, and participate in coding competitions to enhance your problem-solving skills.
-Professional Development
+- LinkedIn: Build a professional network, showcase your skills and experience, connect with industry professionals, and explore job opportunities.
+- GitHub: Collaborate on coding projects, showcase your work, contribute to open-source projects, and learn from others in the developer community.
+- CodeWars: Sharpen your coding skills by solving programming challenges, practicing algorithms, and learning from community solutions.
+- FreeCodeCamp: Access a comprehensive curriculum with interactive coding challenges, projects, and certifications in web development, data science, and more.
+- YouTube: Explore IT-related tutorials, coding guides, and tech channels to learn from experts and gain practical insights.
+- Discord: Join IT-focused communities and chat groups to connect with like-minded individuals, discuss technical topics, and get support.
+- Stack Overflow: Ask technical questions, get answers, and participate in discussions with a vast community of developers and IT professionals.
+- Dev.to: Engage with a community of developers and IT enthusiasts, share your knowledge, and learn from others' experiences.
+- Medium: Access a wide range of IT articles and blog posts written by industry experts, covering various topics and technologies.
+- HackerRank: Practice coding challenges, solve problems, and participate in coding competitions to enhance your problem-solving skills.
+
+## Professional Development
 Focus not only on technical skills but also on professional development. Enhance your communication, teamwork, leadership, and problem-solving abilities. Cultivate a growth mindset, embrace challenges, and seek opportunities for personal and career growth.
 
 ## Networking and Community
